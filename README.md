@@ -98,8 +98,8 @@ PIN:   1810
 
 ```bash
 # 1. Clone this repo
-git clone https://github.com/your-username/customer-admin-management.git
-cd customer-admin-management
+git clone https://github.com/Handa1810/Customer-and-Admin-Management-System.git
+cd Customer-and-Admin-Management-System
 
 # 2. (Optional) Create a virtual environment
 python -m venv venv
